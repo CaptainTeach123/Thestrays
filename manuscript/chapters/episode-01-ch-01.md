@@ -42,6 +42,6 @@ I have spent my whole marriage trying to be honest with this woman.
 
 "No," I said. "Just walked the property with Lela. Finished a couple of boxes."
 
-It is the easiest lie I have ever told, and the one I would give anything to unsay. Because when I went to put my shoes away that morning, they were still wet, soaked through and gritted with sand, and I had not gone anywhere near the water.
+It is the easiest lie I have ever told, and the one I would give anything to unsay. Because when I went to put my shoes away that morning, they were soaked through, and the cuffs of my jeans with them, damp all the way up my shins. The ground had been dry. The weather app still swore the night had been clear. The only thing I had walked through that could have left me like that was the fog. The fog I had spent the whole morning deciding I'd imagined.
 
-Or I didn't remember going. By then I was already learning that in Redding, those are not the same thing. And that the distance between them was going to cost me everything I loved.
+I told myself it was dew. I told myself a lot of things, that first month in Redding. I was already learning how much easier the lie was than the truth, and that the distance between the two was going to cost me everything I loved.
