@@ -141,6 +141,11 @@ These flow straight into every agent's `forbidden_items` rail.
 - **Do not resolve the marriage tension for free** — Rebecca's trust is a cost,
   not a given.
 - **Do not go gory-for-gore's-sake.** Restraint is the house style.
+- **Do not name or confirm the Rusalka** (see bestiary). The water presence stays
+  unnamed and deniable until the author's reveal. No "Rusalka," no narration that
+  settles it as a real drowned-woman spirit.
+- **Do not reveal or foreshadow-too-hard that Craig is Gabriel's doppelgänger**
+  (see ledger). Craig is a warmly-mentioned name until the author introduces him.
 
 ---
 
@@ -150,7 +155,21 @@ New supernatural entities are appended here as the series introduces them. Each
 entry should record: what it is, how it manifests, its ambiguous "clinical"
 reading, its cost/rules, and how it ties to Redding.
 
-### The Overlook Light / the thing in the water _(provisional — Ch. 1)_
+### The thing in the water — a **Rusalka** _(TRUE NATURE = author-only)_
+
+> **DO NOT REVEAL / DO NOT NAME on the page yet.** The word "Rusalka" and its
+> nature are author knowledge only. It is to be *introduced and explored later*.
+> In Chapter 1 (and until the author says otherwise) it appears only as an
+> unnamed, deniable presence in the water. Writing "Rusalka," or any narration
+> that confirms a drowned-woman water-spirit is real, breaks the story. This
+> entry exists so the engine writes the manifestations *consistently* with what
+> it secretly is — not so it can be named.
+
+**What it secretly is:** A Rusalka — a drowned/undead woman of Slavic folklore who
+haunts the water and lures the living to drown, typically by offering irresistible
+peace, beauty, or a voice/song just past comprehension. This is the source of the
+overlook phenomena, and **the fog is hers** — she raises it (which is why the
+weather app never reports it and why it lifts the instant her hold breaks).
 
 The first manifestation, encountered by Gabriel at a stony overlook on a night
 walk.
@@ -164,6 +183,11 @@ walk.
 - **Clinical double:** He had just taken "irresponsibly strong" sleeping meds and
   binged screens; Lela was unfazed; afterward the fog and light were simply gone
   and the darkness was ordinary. Easy to file as a sedative hallucination.
+- **On-page lure (unnamed):** favor Rusalka signatures without explaining them —
+  self-raising fog the instruments deny; a beckoning motion in the water; a
+  voice/song at the edge of comprehension; the offer of *peace* (relief from
+  failure), not fear. Let it read as a woman almost-there in the water. Never
+  confirm what she is.
 - **Rules / cost:** Lures via peace, not fear — it offers relief from failure and
   self-loathing, which makes it far more dangerous to *this* protagonist. Broken
   only when Lela barked and dragged him bodily from the edge. Cost so far: his
@@ -199,8 +223,13 @@ what's genuinely real). Populate as the story is written.
   confounds every perception — is this the cause or the cover? Open.
 - **Gabriel's secret.** He lied to Rebecca about the overlook; the gap between
   them is a live thread. Open.
-- **"Craig dopple" _(seed)_.** Author note implies a doppelgänger tied to the
-  unmet coworker Craig, who's been over-sold as "one of the good ones." Open.
+- **Craig = Gabriel's doppelgänger _(TRUE NATURE = author-only; reveal later)_.**
+  Confirmed: the coworker Craig is a double of Gabriel himself. **Do not reveal or
+  hint on the page yet** — he is to be introduced and explored later. Until then
+  Craig is at most a name others mention warmly ("one of the good ones," Gabriel
+  would "love-love-love him"); when he finally appears on-page, the too-good
+  billing and the not-quite-right familiarity are the setup paying off. Write
+  nothing that lets the reader guess the double before the author's reveal.
 - **Lela as detector.** What she does/doesn't react to is unresolved evidence.
 - **Author seeds to confirm:** forest trails "after experience," "hunting together
   because ecological reasons," "packed up last box — name." Unconfirmed.

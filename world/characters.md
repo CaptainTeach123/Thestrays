@@ -110,10 +110,12 @@ Met at a work dinner at the **Crabcake Factory** by the shore.
 
 - **Who he is:** A coworker Gabriel hasn't met. Per Sarah, "one of the good ones"
   whom Gabriel would "love-love-love."
-- **Seed / flagged thread:** Author note reads **"Craig dopple"** — strongly
-  implies a **doppelgänger** angle. Treat as an open supernatural thread, not yet
-  established. See continuity ledger in `Canon.md`. When Craig appears, remember
-  the too-good introduction may be setup.
+- **TRUE NATURE _(author-only; reveal later)_:** Craig **is Gabriel's
+  doppelgänger.** Confirmed canon, but **do not reveal or hint on the page yet** —
+  he's to be introduced and explored later. Until then he's only a name others
+  mention warmly; the over-selling ("one of the good ones," "love-love-love him")
+  is deliberate setup. When he finally appears, the not-quite-right familiarity
+  pays it off. See continuity ledger and the Forbidden list in `Canon.md`.
 
 ## Jill — _(fragment)_
 
