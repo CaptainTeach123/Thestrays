@@ -151,6 +151,12 @@ These flow straight into every agent's `forbidden_items` rail.
   man who looks nothing like Gabriel. Keep both readings alive (real double vs.
   Gabriel's mind manufacturing his own face). Never name "doppelgänger" on the
   page or settle that Craig is not simply a man.
+- **The editor-entity frame is a separate layer** (see `format.md`). The ancient
+  "editor" that keeps and annotates the journal may loom and imply its own inhuman
+  reality, but it must NOT resolve Gabriel's in-journal haunted-vs-mad question,
+  name the Rusalka or the double, or explain the lore. Its claims are a predator's
+  curation, not the narrative's verdict; the two-readings engine still lives inside
+  the journal.
 
 ---
 

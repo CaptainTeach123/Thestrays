@@ -1,11 +1,13 @@
 EDITOR'S NOTE
 
-I deal, as a rule, in paper: old ledgers, estate lots, the boxes that outlive the people who filled them. The journal that makes up most of this book reached me in such a box, from such a house, on the Redding shore. I bought the lot for the furniture. I have not looked at the furniture since.
+You were promised an editor. What you have is something that has been called an editor before, among older names, and the word will serve for the length of a book.
 
-Most of these pages are taken from a single handwritten journal. The remainder — messages, letters, hospital correspondence, and photographs — were folded and clipped among the entries, and I have set each where it seemed to belong, so that the reader may weigh them as I have tried to. Where I have been able to check a small thing against the ordinary record, I have said so, and said only what I found.
+I keep accounts. Not of money. Of people: the last true record of a life, set down in its own hand while the hand still answered. I have a great many. This one is recent. Most are not. I have kept pages until the ink outlived the town that was named in them, and the town outlived the sea's word for it, and I am keeping still, because someone must, and there is no longer anyone else old enough for the work.
 
-Several entries are damaged. Some are missing. In places the hand becomes difficult, and later, impossible; where it fails I have marked the gap and let it stand. I have corrected nothing and invented nothing. That has been harder than it sounds.
+These came from a house on the Redding shore. The loose things among them, the messages and the photographs and the small proofs he gathered to convince himself, I have set where they belong between the entries, so that you may weigh them as he could not, and as I no longer trouble to. Where the hand fails I have marked the gap. I have corrected nothing. The correcting was never the point. The keeping is.
 
-I make no claim as to the truth of what is recorded here. I ask only that you remember, as you read, that the man who kept this journal could not always make that claim either. I confess I no longer keep the box in the room where I sleep.
+I make no claim as to the truth of what is written here; truth is a young concern, and I have outlived a fair number of them. I will tell you only this, because you are new, and I was, in my fashion, once patient: for a long while the man who kept this journal believed the worst thing that could be wrong with him was that he was going mad. That was the kindest thing he ever believed.
+
+Turn the page. He is one of mine now, the way they all become mine in the end. You will give him an evening. I have already kept him longer than you would believe, and I will go on keeping him after you have shut the book and let his name go.
 
 — Ed.

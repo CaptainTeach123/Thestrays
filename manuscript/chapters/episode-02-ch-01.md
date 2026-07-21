@@ -40,7 +40,7 @@ And then, leaning in like she was passing me something valuable: "You have got t
 [NOTE — a cocktail napkin, kept. On it, in Sarah's hand:]
 CRAIG — the good one!! you'll LOVE him
 
-*[The earliest of the papers to carry the name. He kept the napkin; he kept very little else from that month. I have let the name arrive here as it arrived for him. It will not be the last time it does. — Ed.]*
+*[The earliest of my papers to carry the name. They always keep one small thing from the beginning, without ever knowing why they cannot throw it away. I have let the name reach you as it reached him. It comes again, for him and, in time, for me. — Ed.]*
 
 "One of the good ones," she said. "You'll love him. Love-love-love him. You two." She wagged a finger between me and the empty chair. "You two are going to get along."
 

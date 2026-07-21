@@ -50,7 +50,7 @@ When I stood, there was no light. No fog. Ordinary dark, ordinary sea. I checked
 [WEATHER — screenshot saved 2:09am]
 Clear. 0% precipitation. Wind calm. Nowhere, in any hour, does it mention fog.
 
-*[This screenshot is among the loose papers, and shows what he says it shows. The public record for that night on this coast agrees with it: clear. I include both without further comment. — Ed.]*
+*[The little machine he carried agreed with the sky that night: clear, no fog, nothing there to give way to. I have kept other pages that turn on the same small blank, the place where a thing ought to be written down and simply is not. I stopped finding it strange a long time ago. He had not yet learned not to. — Ed.]*
 
 I walked myself home and poured the pills down the drain. It is so easy to blame the pills. Easier than the alternative, which I am not ready to hold: that maybe the pills were never the problem, and something else is.
 
@@ -74,4 +74,4 @@ It is the easiest lie I have ever told, and the one I would give anything to uns
 
 I am telling this journal a great many things I cannot tell her. I am already learning how much easier the lie is than the truth, and that the distance between the two is going to threaten everything I love.
 
-*[These early pages are the steadiest in the book. The hand is a writer's hand, unhurried, sure of itself. I note this now because it does not last, and I would have the reader remember what it looked like when it was well. — Ed.]*
+*[These early pages are the steadiest in the book. A writer's hand, unhurried, still well. I set the observation here because I have read to the end, as I always have before you begin, and I would have you remember what the man looked like on paper while the shore had only started on him. — Ed.]*

@@ -50,7 +50,7 @@ I told myself I wanted proof. I wanted to hold the thing up to the light and see
 [HOSPITAL STAFF DIRECTORY — screenshot, saved 11:47pm]
 CRAIG ——, Dept. of Surgery. The photo is a round, pleasant face I have never seen in my life. Brown eyes. A good ten years older than me. He looks nothing like me. Nothing. Not a little, not a cousin's worth, not the generous resemblance you'd grant a stranger in bad light.
 
-*[The photograph is here, clipped to the page. It is of a man. It is not the man he describes, and it is not the writer either. I have sat with the page and the picture longer than I would care to admit, and can tell you only that both are real objects and that they do not agree. — Ed.]*
+*[The photograph is here, clipped to the page. It is of a man. It is not the man he describes, and it is not the writer. Two true things that refuse each other; I have a whole keeping of them, pages and proofs that will not be reconciled. I gave up needing them to agree an age ago. You will not give it up tonight. You will lie awake, as he did, choosing which to believe. — Ed.]*
 
 I sat on the edge of the bathtub with the screen going bright and dim in my hand and I could not make the photograph and the evening fit inside the same head. Either the thing that ate at my table tonight wore a face no camera can hold, or I spent an entire dinner watching my own face bloom across a man who does not have it, hearing my own voice come out of a mouth that isn't mine.
 
@@ -65,4 +65,4 @@ I could not assemble a single sentence, not one, that would explain to her that 
 
 Outside, past the trees, the sea went on doing whatever the sea does at night. I chose not to listen to it. I am getting good at choosing not to listen.
 
-*[From about here the writing begins to change. Nothing a stranger would notice yet: a word crossed out and set down again the same, a line that leans where the early lines stood straight. I mark it only because I told the reader I would. — Ed.]*
+*[From here the writing begins to turn. Nothing you would notice yet: a word struck out and set down again unchanged, a line that leans where the early lines stood straight. I notice. I have watched a great many hands make this exact turn, and I know the country it leads into. — Ed.]*
