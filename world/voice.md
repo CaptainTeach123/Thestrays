@@ -97,6 +97,41 @@ it, never during.
 
 ---
 
+## Tonal arc across the series (humor decay)
+
+The comic/dread balance is **not fixed** — it shifts as the series darkens. The
+humor progressively thins the deeper Redding sinks its claim into Gabriel, so the
+voice itself charts his unraveling: **a narrator slowly losing his jokes is a
+narrator losing his mind.** Chapter 1's comic-forward balance is the *baseline he
+falls from*, not the constant.
+
+How to apply it:
+
+- **Early (Ch. 1 and the opening stretch):** full comic voice as documented above.
+  Jokes are frequent, the asides land, he's still himself. Dread is the exception
+  that interrupts the comedy.
+- **Middle:** the ratio inverts by degrees. Jokes still come, but more of them are
+  visibly *defensive* — reached for a beat too late, landing a little hollow,
+  used to wave off things that frighten him. The melancholy thickens under them.
+- **Late:** comedy becomes scarce and brittle. When he does crack wise it reads as
+  a man performing his old self, or failing to. Stretches pass with no relief at
+  all. The restrained "horror mode" prose becomes the dominant register, not the
+  interruption.
+
+Guardrails so the decay reads as intentional, not as the voice breaking:
+
+- **Never a hard cliff.** Thin the humor gradually, chapter over chapter; don't
+  flip a switch. Within any single chapter, still honor the laugh→freeze→nervous-
+  laugh rhythm — it just runs quieter and the recoveries get weaker over the arc.
+- **Keep him recognizably Gabriel.** Even at his lowest, the *shape* of his wit
+  survives (self-deprecation, the writer's eye); it's the frequency and the
+  confidence that erode, not the identity.
+- **Tie the level to the story, not the clock.** A late chapter with a rare calm
+  beat can briefly recover more humor; a mid chapter right after a scare can run
+  nearly dry. Pace the decay to Gabriel's grip, and let the plot/scene cards say
+  where he is. The writing brief should state the intended humor level for the
+  chapter so the prose agent calibrates deliberately.
+
 ## Sentence mechanics (as observed)
 
 - Long, winding, clause-stacked sentences for comic riffs and observation;

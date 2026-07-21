@@ -44,6 +44,7 @@ print it. Use exactly these sections:
 - POV type: <first / third-limited / third-omniscient>
 - Tense: <past / present>
 - Voice/register: <e.g. terse, wry, formal; match world rules>
+- Humor level (per voice.md decay arc): <full comic / defensive-thinning / scarce-and-brittle> — where Gabriel's grip is right now, tied to the story, not the chapter number
 - Scenes in this chapter, in order: <S1, S2, ...>
 
 ## Target length
