@@ -217,7 +217,12 @@ itself.
 
 - **Manifestation (Ch. 3):** Meeting Craig in person, Gabriel sees his own
   identical face across the dinner table — a wrongness that vertiginously unmoors
-  him. Craig is warm, easy, "one of the good ones," and unbothered.
+  him. Worse than the face is the *manner*: Craig **moves like Gabriel and speaks
+  like Gabriel** — gestures Gabriel recognizes as his own, the same dry self-
+  deprecating cadence, lines that could have come straight out of Gabriel's own
+  mouth. Craig is warm, easy, "one of the good ones," and wholly unaware of it.
+  Write his dinner dialogue so it could plausibly be Gabriel's, paired with
+  mannerisms Gabriel silently clocks as his; the recognition is Gabriel's alone.
 - **Clinical double:** No one else at the table reacts to any resemblance, and the
   hospital website later shows a Craig who looks nothing like Gabriel. Reads
   cleanly as a sleep-deprived, fraying mind projecting Gabriel's face onto a
