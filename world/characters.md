@@ -106,16 +106,20 @@ Met at a work dinner at the **Crabcake Factory** by the shore.
   reader) learns the social map of the hospital. Called Rebecca "a saint." Her
   unreliability as a narrator-within-the-narrative mirrors Gabriel's own.
 
-## Craig — _(not yet met)_
+## Craig — _(introduced Ch. 3)_
 
-- **Who he is:** A coworker Gabriel hasn't met. Per Sarah, "one of the good ones"
-  whom Gabriel would "love-love-love."
-- **TRUE NATURE _(author-only; reveal later)_:** Craig **is Gabriel's
-  doppelgänger.** Confirmed canon, but **do not reveal or hint on the page yet** —
-  he's to be introduced and explored later. Until then he's only a name others
-  mention warmly; the over-selling ("one of the good ones," "love-love-love him")
-  is deliberate setup. When he finally appears, the not-quite-right familiarity
-  pays it off. See continuity ledger and the Forbidden list in `Canon.md`.
+- **Who he is:** Rebecca's coworker, over-sold by Sarah in Ch.2 as "one of the good
+  ones" Gabriel would "love-love-love." First met on-page at the Chapter 3 dinner.
+  On the surface: genuinely warm, easy, likeable, unremarkable in every way but one.
+- **The one way:** to Gabriel, in person, Craig has **his own identical face.**
+- **TRUE NATURE _(author-only)_:** Craig **is Gabriel's doppelgänger** — the town
+  wearing Gabriel's face (see the bestiary entry "The Double" in `Canon.md`).
+  **Introduced ambiguously in Ch.3, NOT confirmed.** The horror is deniable by
+  design: no one else notices the resemblance, and when Gabriel later checks the
+  hospital website, the photo is a man who looks nothing like him. Both readings
+  stay alive (real double vs. Gabriel's mind manufacturing his own face). **Never
+  write "doppelgänger" on the page; never confirm Craig is other than a man.** The
+  reveal/escalation is the author's to call in later chapters.
 
 ## Jill — _(fragment)_
 

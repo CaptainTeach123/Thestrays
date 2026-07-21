@@ -1,0 +1,100 @@
+{
+  "episode_number": 3,
+  "title": "The Good One",
+  "logline": "The coworker everyone adores finally comes to dinner, and Gabriel opens his own front door to find himself standing on the other side of it; then the hospital website shows a stranger, and Gabriel loses the last thing he trusted, his own eyes.",
+  "episode_role": "The introduction of Craig and the first turn of the doppelganger thread, delivered ambiguously so it deepens the sanity engine rather than resolving it. Pays off Ch.2's planted dread of Craig and Paul's line 'the brain is a very good liar,' escalates from the water-manifestation to a manifestation inside identity itself, and pushes the marriage strain past hiding a night into hiding a fear Gabriel cannot even phrase.",
+  "arc_position": "Early-middle season. Ch.1 planted the secret, Ch.2 showed it cost him socially and frayed the medication alibi; Ch.3 moves the horror from out there (the water) to in here (a face), and from deniable-by-pills to deniable-by-nobody-else-sees-it. The descent's second real step: by the end Gabriel can no longer trust his own perception, and the town has a permanent agent standing inside Rebecca's world.",
+  "premise_delta": "Start: the uncanny is a thing that happens to Gabriel near water, at night, gone by morning; Craig is a name he inexplicably dreads. End: the uncanny now wears a human face, sits at his table in daylight, is embedded in his wife's daily life, and cannot be explained by pills or fog; worse, the one piece of hard evidence (the website photo) says Gabriel imagined the whole thing, so the terror and the self-doubt now point the same direction.",
+  "key_scenes": [
+    {
+      "id": "S1",
+      "purpose": "Re-enter on Gabriel dreading a dinner with a man he has never met, and set the domestic pressure: the overlook secret still unspoken, insomnia grinding on, Rebecca happily hosting. Establish the defensive-thinning humor before it drops away.",
+      "summary": "The night of the dinner Rebecca has arranged, Gabriel cooks and tidies and tries to talk himself out of the irrational dread he has carried since Sarah first said Craig's name, rehearsing how a normal, well-rested, honest husband would feel about company.",
+      "stakes": "Gabriel's ability to pass as fine for one more evening, and whether his unexplained dread is instinct or another symptom he should be frightened of.",
+      "turn": "Rebecca, glowing about finally introducing them, gives Gabriel a last opening to admit something is wrong with him; he swallows it and commits to the performance. Private dread flips to locked-in obligation."
+    },
+    {
+      "id": "S2",
+      "purpose": "The introduction and the chapter's hinge: Gabriel meets Craig and sees his own identical face. Deliver the vertigo in full restrained-horror mode, and immediately install the deniability (no one else reacts).",
+      "summary": "Gabriel opens the door to welcome Craig and is looking at himself, his own face, his own build, wearing a stranger's easy smile, while Rebecca hugs the man warmly and notices nothing at all.",
+      "stakes": "Gabriel's grip on reality in the one instant he most needs to hold it, in front of the wife he is already lying to.",
+      "turn": "Ordinary hospitality detonates into private horror; welcome flips to unmoored terror, and because Rebecca sees nothing, Gabriel understands he cannot say a word."
+    },
+    {
+      "id": "S3",
+      "purpose": "Sustain the ordeal across the dinner. Craig is genuinely warm and likeable ('one of the good ones'), which makes it worse, and Gabriel must host his own face while smiling. Keep both readings breathing; let the horror sit in Gabriel's perception, never in Craig's behavior.",
+      "summary": "Through dinner Craig is charming, kind, easy company, and Gabriel studies him helplessly for the seam that would prove it isn't his face, finding none, saying almost nothing, watching Rebecca fall in as everyone does.",
+      "stakes": "Whether Gabriel can sit at his own table without coming apart, and whether Rebecca reads his silence as rudeness, illness, or something she should worry about.",
+      "turn": "The longer Gabriel looks for the difference, the surer he is there is none; hope of a rational out flips to trapped certainty, just as Rebecca shoots him a look that says he is embarrassing her."
+    },
+    {
+      "id": "S4",
+      "purpose": "Get Craig out the door on a beat that lands wrong, and hand Gabriel the compulsion that drives the second half: he has to know. Small, quiet, deniable.",
+      "summary": "Saying goodnight, Craig does something ordinary that lands strangely on Gabriel, a familiar phrase, a too-easy handshake, a warmth pitched exactly at a man he supposedly just met, and then he is gone into the dark and Gabriel is left needing proof of what he saw.",
+      "stakes": "Gabriel's need to convert a private, unwitnessed horror into something he can check, so he can either be right or be sick, either of which he now half-wants over not knowing.",
+      "turn": "Relief that the night is over flips instantly into a worse need; the door closes and Gabriel goes straight for his phone to look Craig up."
+    },
+    {
+      "id": "S5",
+      "purpose": "The reversal the whole chapter is built to deliver, and the ambiguity's masterstroke: the hospital website photo of Craig looks nothing like Gabriel. Refute his own eyes without resolving the truth.",
+      "summary": "Alone, Gabriel pulls up the hospital staff page and finds Craig's headshot, and the man in it is a stranger, no more Gabriel's face than anyone's, so that either the thing at his table wore a face the camera can't hold, or Gabriel spent an evening seeing himself where no one was.",
+      "stakes": "The last instrument Gabriel has left, his own perception, and with it any ground to stand on between haunted and unwell.",
+      "turn": "Certainty flips to vertigo of the opposite kind; the evidence he went looking for to prove he isn't crazy proves, just as easily, that he might be, and the ambiguity closes over him like water."
+    },
+    {
+      "id": "S6",
+      "purpose": "Crest the marriage strain and set the closing hook. Rebecca's happy, ordinary account of the evening cannot be squared with Gabriel's, and he cannot begin to tell her why. Carry Craig, the website, and Gabriel's failing eyes out of the chapter unresolved.",
+      "summary": "In bed, Rebecca says how nice that was and how glad she is Gabriel finally met Craig, and Gabriel, staring at the ceiling, tries and fails to hold Craig's face in his mind, finding only his own, and cannot tell her that the good one who came to dinner had, for one evening, been him.",
+      "stakes": "The honesty the marriage is staked on, and whether Gabriel can live inside a lie this large, about a fear he cannot even make into a sentence.",
+      "turn": "A near-confession dies unspoken; reaching toward Rebecca flips to a colder isolation than any yet, and the chapter leaves the reader with two irreconcilable accounts of the same man and no way to choose."
+    }
+  ],
+  "hook": {
+    "opening_hook": "A man who has secretly dreaded a stranger for weeks finally opening his front door to greet him, in full comic-domestic ordinariness, so the reader is braced for the wrong thing right up until the wrong thing is Gabriel's own face.",
+    "closing_hook": "A hospital headshot of a man who looks nothing like Gabriel, glowing on his phone in the dark while his wife sleeps, and Gabriel no longer able to say which is the lie, the photo or the evening, the face or his eyes."
+  },
+  "characters_present": [
+    "Gabriel — to host one dinner without coming apart, to explain away the dread, and, when he can't, to find proof of what he saw before it costs him his mind or his marriage",
+    "Rebecca — to introduce the husband she loves to the coworker she adores and have the two of them get along, and to enjoy an easy, happy evening in the life she is building",
+    "Craig — to be exactly the good, warm, likeable guest everyone promised; on the surface an ordinary man, unaware of anything wrong (his true nature stays author-only and unconfirmed)"
+  ],
+  "world_rules_engaged": [
+    "Two-readings rule: Craig's identical face must read equally as a real supernatural double and as Gabriel's fraying mind projecting his own face onto a stranger",
+    "Deniable footprints: the resemblance appears only to Gabriel, only in person; no witness corroborates it and the website photo refutes it",
+    "Costs, not free scares: the manifestation costs Gabriel trust in his own eyes and pushes the marital lie past a hidden night into a hidden, unspeakable fear",
+    "The town frames the creatures: Craig is Redding's claim expressed through identity and planted inside Rebecca's world (the hospital), the counterpart to the water",
+    "Escalation not repetition: move the horror from the water/outdoors/night (Ch.1-2) to a human face indoors in daylight; do not re-run the fog beat",
+    "POV locked to Gabriel, first person, past tense; nothing enters except through him",
+    "Do NOT confirm Craig is supernatural; do NOT name 'doppelganger'; do NOT let anyone corroborate the resemblance",
+    "Rusalka/water thread stays unnamed and mostly dormant this chapter; no naming, no set piece",
+    "Humor decay: solidly into defensive-thinning now, brittle and late in the dread scenes and nearly absent from S2 and S5; keep Gabriel recognizably himself in S1",
+    "The marriage carries the emotional load; Rebecca's trust is spent further, not restored"
+  ],
+  "setups_and_payoffs": [
+    {"type": "payoff", "id": "P1", "what": "Pays off Ch.2's plant of Craig as an over-sold, unmet name and Gabriel's inexplicable dread of him — the dinner arrives and the dread is realized as something far stranger than social anxiety", "pays_off": "this episode"},
+    {"type": "payoff", "id": "P0", "what": "Pays off Paul's Ch.2 line 'the brain is a very good liar' and his patient who couldn't recognize her own husband — inverted here into Gabriel recognizing himself where he shouldn't", "pays_off": "this episode"},
+    {"type": "setup", "id": "P5", "what": "The doppelganger thread opened: Craig now a recurring presence embedded in Rebecca's world, his true nature unconfirmed and to be explored/escalated later", "pays_off": "later"},
+    {"type": "setup", "id": "P6", "what": "The website discrepancy left unresolved — a piece of hard 'evidence' that cuts both ways and will need reckoning with", "pays_off": "later"},
+    {"type": "setup", "id": "P7", "what": "Gabriel can no longer trust his own eyes/perception of faces — a capability loss the season can exploit (mistaking people, his own reflection)", "pays_off": "later"},
+    {"type": "setup", "id": "P3b", "what": "Continues the fraying medication alibi from Ch.2: this manifestation has nothing to do with pills or fog, widening the gap Gabriel can't explain", "pays_off": "later"}
+  ],
+  "continuity_notes": [
+    "Follows episode-02 (the Crabcake Factory dinner). This chapter delivers the 'have Craig over sometime' that closed Ch.2.",
+    "Craig has NOT been met before this chapter; Ch.1-2 kept him a name only. This is his first on-page appearance.",
+    "Set some weeks after Ch.2. Gabriel is still off the sleeping pills and still hiding the overlook night; the lie is now load-bearing and grows here into hiding the Craig experience too.",
+    "Rebecca must notice NO resemblance between Gabriel and Craig and must find the evening basically lovely; her account and Gabriel's cannot be reconciled, and that gap is the point.",
+    "The hospital website photo genuinely looks nothing like Gabriel — do not hedge it into a partial resemblance; the flat contradiction is what powers the ambiguity. Do not resolve which is true.",
+    "Keep Craig's on-page behavior warm and ordinary; the horror lives entirely in Gabriel's perception, never in Craig acting sinister. No mirror/twin/doppelganger language in the narration.",
+    "Lela may react to Craig (echoing her Ch.1 detector role) but keep it ambiguous and uncorroborating; do not let her reaction 'prove' anything.",
+    "Paul, Sarah, Jill need not appear; reference only as needed. Preserve their Ch.2 characterization if they do."
+  ],
+  "warnings": [
+    "Do NOT confirm the supernatural or name the doppelganger. The instant the text settles that Craig really is a magical double, the engine breaks. Both readings must exit the chapter intact.",
+    "Do NOT let a second person see the resemblance or let Rebecca's account bend toward Gabriel's — that corroboration would collapse the ambiguity.",
+    "Resist making Craig creepy. He is 'one of the good ones' and behaves like it; the dread is Gabriel's, not Craig's. A sinister Craig tips the reader toward 'real monster' and kills the it's-Gabriel's-mind reading.",
+    "Do NOT over-explain the website contradiction (old photo, bad lighting, etc.). Leave it a clean, unexplained gut-punch that cuts both ways.",
+    "Watch humor calibration: defensive-thinning, not mirthless. S1 can still be funny in the domestic prep; S2 and S5 should be nearly humor-free. Keep it a gradual decay, not a cliff.",
+    "Do NOT resolve the marriage strain or the secret for free; both must exit heavier, and Gabriel's new fear must be one he cannot yet put into words to Rebecca.",
+    "Length target when written is 5,000-8,000 characters; keep the dinner tight and weight the two horror hinges (S2, S5)."
+  ]
+}

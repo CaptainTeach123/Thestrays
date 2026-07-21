@@ -144,8 +144,13 @@ These flow straight into every agent's `forbidden_items` rail.
 - **Do not name or confirm the Rusalka** (see bestiary). The water presence stays
   unnamed and deniable until the author's reveal. No "Rusalka," no narration that
   settles it as a real drowned-woman spirit.
-- **Do not reveal or foreshadow-too-hard that Craig is Gabriel's doppelgänger**
-  (see ledger). Craig is a warmly-mentioned name until the author introduces him.
+- **Do not CONFIRM that Craig is a supernatural double** (see ledger/bestiary).
+  Craig is introduced in Chapter 3, and Gabriel perceives him as his own identical
+  twin — but that perception must stay **unconfirmed and deniable**: no other
+  character corroborates the resemblance, and the hospital-website photo shows a
+  man who looks nothing like Gabriel. Keep both readings alive (real double vs.
+  Gabriel's mind manufacturing his own face). Never name "doppelgänger" on the
+  page or settle that Craig is not simply a man.
 
 ---
 
@@ -198,6 +203,35 @@ walk.
   water reads as the town's claim reaching for the newest stray.
 - **First appears:** Chapter 1, "The Move."
 
+### The Double — **Craig** _(TRUE NATURE = author-only)_
+
+> **DO NOT CONFIRM / DO NOT NAME.** Never write "doppelgänger" or settle that Craig
+> is anything but a man. He is *introduced* in Chapter 3 and the doubling is seeded
+> **ambiguously**; the supernatural truth is the author's to reveal later. This
+> entry exists so the manifestations stay consistent with what he secretly is.
+
+**What he secretly is:** A doppelgänger of Gabriel — the town wearing Gabriel's own
+face on one of its own. Another face of Redding's claim, the counterpart to the
+water: where the Rusalka lures from outside, the Double works from inside identity
+itself.
+
+- **Manifestation (Ch. 3):** Meeting Craig in person, Gabriel sees his own
+  identical face across the dinner table — a wrongness that vertiginously unmoors
+  him. Craig is warm, easy, "one of the good ones," and unbothered.
+- **Clinical double:** No one else at the table reacts to any resemblance, and the
+  hospital website later shows a Craig who looks nothing like Gabriel. Reads
+  cleanly as a sleep-deprived, fraying mind projecting Gabriel's face onto a
+  stranger — the inverse of Paul's Ch.2 patient who couldn't recognize her own
+  husband, and a payoff of "the brain is a very good liar."
+- **Rules / cost:** The likeness appears only to Gabriel and only in person; it
+  doesn't survive a photograph or a second witness (deniable footprint). Cost: the
+  last instrument Gabriel trusts — his own eyes — and the ability to be sure of a
+  face, even, eventually, his own.
+- **Tie to Redding:** The town's claim expressed through identity rather than water;
+  Craig is embedded in Rebecca's world (the hospital), so the Double stands exactly
+  where it can reach what Gabriel loves.
+- **First appears:** Chapter 3.
+
 
 <!--
 Template:
@@ -223,13 +257,19 @@ what's genuinely real). Populate as the story is written.
   confounds every perception — is this the cause or the cover? Open.
 - **Gabriel's secret.** He lied to Rebecca about the overlook; the gap between
   them is a live thread. Open.
-- **Craig = Gabriel's doppelgänger _(TRUE NATURE = author-only; reveal later)_.**
-  Confirmed: the coworker Craig is a double of Gabriel himself. **Do not reveal or
-  hint on the page yet** — he is to be introduced and explored later. Until then
-  Craig is at most a name others mention warmly ("one of the good ones," Gabriel
-  would "love-love-love him"); when he finally appears on-page, the too-good
-  billing and the not-quite-right familiarity are the setup paying off. Write
-  nothing that lets the reader guess the double before the author's reveal.
+- **Craig = Gabriel's doppelgänger _(TRUE NATURE = author-only)_.** Confirmed: the
+  coworker Craig is a double of Gabriel himself. **Introduced in Chapter 3.** The
+  doppelgänger is now *seeded ambiguously*, not confirmed: at the dinner Gabriel
+  sees Craig as his own identical face, an unnerving vertigo no one else at the
+  table remarks on; afterward he looks Craig up on the hospital website and the
+  photo is a man who looks **nothing like him**. The two readings must both
+  survive — a real supernatural double whose likeness the camera doesn't catch, OR
+  a sleep-starved mind that has started manufacturing Gabriel's own face onto a
+  stranger (the horrifying inverse of Paul's Ch.2 face-blindness patient, and a
+  direct payoff of "the brain is a very good liar"). **Do not confirm** on the page
+  that Craig is supernatural, do not have anyone corroborate the resemblance, and
+  never use the word "doppelgänger." Later chapters explore/escalate; the reveal is
+  the author's to call.
 - **Lela as detector.** What she does/doesn't react to is unresolved evidence.
 - **Author seeds to confirm:** forest trails "after experience," "hunting together
   because ecological reasons," "packed up last box — name." Unconfirmed.
