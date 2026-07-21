@@ -150,7 +150,30 @@ New supernatural entities are appended here as the series introduces them. Each
 entry should record: what it is, how it manifests, its ambiguous "clinical"
 reading, its cost/rules, and how it ties to Redding.
 
-_None catalogued yet — the author will add them as they appear._
+### The Overlook Light / the thing in the water _(provisional — Ch. 1)_
+
+The first manifestation, encountered by Gabriel at a stony overlook on a night
+walk.
+
+- **Manifestation:** A dense fog rolls in (though the weather app reports none). A
+  light appears above the obscured overlook — an island of light untouched by the
+  fog below. From the water: hand-like waves that move *away* from shore in a
+  beckoning motion, and unintelligible sounds that flood Gabriel with an
+  unnatural, total calm — his mind goes quiet for the first time in his adult
+  life. He is compelled, against his will, toward the edge, deciding to jump.
+- **Clinical double:** He had just taken "irresponsibly strong" sleeping meds and
+  binged screens; Lela was unfazed; afterward the fog and light were simply gone
+  and the darkness was ordinary. Easy to file as a sedative hallucination.
+- **Rules / cost:** Lures via peace, not fear — it offers relief from failure and
+  self-loathing, which makes it far more dangerous to *this* protagonist. Broken
+  only when Lela barked and dragged him bodily from the edge. Cost so far: his
+  sense of safety, a secret he now keeps from Rebecca, and his sanity's benefit of
+  the doubt.
+- **Tie to Redding:** The town "exists solely to serve outsiders" and has "lost a
+  part of itself"; the sea is its face to the world. A beckoning presence in the
+  water reads as the town's claim reaching for the newest stray.
+- **First appears:** Chapter 1, "The Move."
+
 
 <!--
 Template:
@@ -168,4 +191,16 @@ Template:
 
 Track series-long mysteries and unpaid setups here so later episodes stay
 consistent (what claimed Redding, what Gabriel and Rebecca were really fleeing,
-what's genuinely real). _Empty for now — populate as the story is written._
+what's genuinely real). Populate as the story is written.
+
+- **What claimed Redding, and what it wants.** A declining town that "exists
+  solely to serve outsiders"; the presence in the water (Ch. 1). Open.
+- **Gabriel's reliability.** Sleeping-pill withdrawal (quit cold turkey) now
+  confounds every perception — is this the cause or the cover? Open.
+- **Gabriel's secret.** He lied to Rebecca about the overlook; the gap between
+  them is a live thread. Open.
+- **"Craig dopple" _(seed)_.** Author note implies a doppelgänger tied to the
+  unmet coworker Craig, who's been over-sold as "one of the good ones." Open.
+- **Lela as detector.** What she does/doesn't react to is unresolved evidence.
+- **Author seeds to confirm:** forest trails "after experience," "hunting together
+  because ecological reasons," "packed up last box — name." Unconfirmed.
