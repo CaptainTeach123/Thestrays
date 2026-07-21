@@ -1,0 +1,100 @@
+{
+  "episode_number": 2,
+  "title": "The Crabcake Factory",
+  "logline": "A month after the overlook, a sleepless Gabriel must play the supportive husband at his wife's hospital work dinner, where accomplished strangers sharpen his sense of fraud and the water outside the window reaches for him again.",
+  "episode_role": "First real social-world chapter after the inciting incident: it dramatizes the load-bearing lie in a public setting, establishes the hospital cast (Paul, Sarah, the fragmentary Jill), plants Craig as an anticipated absence, and keeps the horror engine warm with one small deniable uncanny beat rather than a set piece. It converts Ch.1's private terror into a marriage-strain pressure cooker and seeds threads (Craig, the neurosurgeon, Gabriel's failing mind) the season will pay off.",
+  "arc_position": "Early season, the descent's first step down from Ch.1's comic-forward baseline. Ch.1 planted the secret; Ch.2 shows the secret starting to cost him socially and maritally. Nothing is resolved; by the end the lie is heavier, the town's reach is confirmed as not a one-time event, and Craig is a name that now hangs over the story.",
+  "premise_delta": "Start: the overlook was arguably a one-night pill hallucination Gabriel has half-managed to file away; the lie to Rebecca is fresh and containable; the hospital world is abstract. End: the uncanny has intruded once more, sober and off the pills, so the medication alibi is fraying; the lie is now a fixed structure Gabriel maintains in front of witnesses; the hospital world is peopled and Gabriel has been measured against it and found himself wanting; Craig exists as an over-sold, unmet presence the reader is primed to distrust.",
+  "key_scenes": [
+    {
+      "id": "S1",
+      "purpose": "Re-establish the world one month on: chronic insomnia from quitting the pills cold turkey, the still-secret overlook night, and the lie as the new load-bearing beam of the marriage. Sets comic-tipping-to-defensive tone before the social scene.",
+      "summary": "Getting dressed for Rebecca's work dinner, running on no sleep, Gabriel rehearses being a normal husband while the memory of the overlook and his damp shoes sits unspoken between them. Rebecca, happy and excited to show him off, brushes near the subject of that first night.",
+      "stakes": "Whether Gabriel can keep the secret intact and pass as fine for one more evening, and whether the intimacy of the marriage survives being routed through a lie.",
+      "turn": "A soft opening to confess arrives and closes; Gabriel deflects again, and the lie hardens from a one-time slip into a maintained fixture. Closeness flips to managed distance."
+    },
+    {
+      "id": "S2",
+      "purpose": "Deliver the sketch-comedy cast intros and sharpen Gabriel's impostor/failure ache by placing him at a table of accomplished people. Full comic voice at its most confident before the thinning begins.",
+      "summary": "At the Crabcake Factory by the shore, Gabriel meets Rebecca's colleagues, portly ever-confident Paul, over-lubricated Sarah, and the barely-glimpsed Jill, and is folded into a warm, boozy welcome he doesn't feel he's earned.",
+      "stakes": "Gabriel's fragile self-image and his ability to be an asset rather than an embarrassment to Rebecca's fresh start in a new job.",
+      "turn": "The warm welcome curdles inward: a toast to Rebecca's arrival lands as proof that everyone at the table has built something and he has not. Belonging flips to private exile."
+    },
+    {
+      "id": "S3",
+      "purpose": "Use Paul the neurosurgeon as a quietly loaded presence given Gabriel's fear for his own mind, and get him off-stage (pager) so the gossip can flow. Threads the clinical double of the horror through ordinary shop talk.",
+      "summary": "Paul holds court, and the small talk drifts to the brain, memory, sleep, the mind's tricks; Gabriel fishes, half-joking, for reassurance about himself before Paul's pager pulls him out early.",
+      "stakes": "Gabriel's grip on the reassurance he needs, that his experiences are stress and not something breaking; a real surgeon's offhand words carry disproportionate weight for a man privately terrified.",
+      "turn": "A casual clinical aside meant as dinner-party banter lands on Gabriel like a diagnosis of himself; comfort flips to dread, and the one person who could name what's wrong with him walks out the door."
+    },
+    {
+      "id": "S4",
+      "purpose": "The exposition-via-gossip valve: Sarah hands Gabriel the hospital social map, the dirt on Paul, and, crucially, over-sells the unmet Craig. Plants Craig as anticipated presence (setup only) and keeps his billing warmly, suspiciously glowing.",
+      "summary": "Drunk and confiding, Sarah narrates the office, cheerful Paul the serial cheater perpetually broke from his divorces, and insists Gabriel has to meet Craig, one of the good ones, someone he'd love-love-love.",
+      "stakes": "How Gabriel reads the people he'll be orbiting for years, and whether the reader clocks Craig's over-selling as the promise it is.",
+      "turn": "Idle gossip snags: the way Sarah pitches Craig, as if Gabriel already half-knows him, catches oddly and leaves an itch. Amusement flips to a faint, unplaceable unease around a name."
+    },
+    {
+      "id": "S5",
+      "purpose": "The one small deniable uncanny beat. Bring the fog/water motif from the overlook into the ordinary evening, sober and off the pills, so the medication alibi frays, while preserving both readings. No escalation, no set piece.",
+      "summary": "Through the restaurant's window over the water, fog gathers where the weather promised none and the waves move wrong for a breath; the table noise drops away and Gabriel's head goes unbearably quiet, the same quiet as the overlook, before Sarah's laugh snaps it and the window shows only ordinary dark sea.",
+      "stakes": "Gabriel's last comforting explanation, that it was only the pills, and with it his ability to believe he is well.",
+      "turn": "The safe, sober evening tips into wrongness and then is instantly deniable again, but this time there are no pills to blame; relief flips to a colder fear he immediately talks himself out of."
+    },
+    {
+      "id": "S6",
+      "purpose": "Crest the marriage-strain thread and set the closing hook. Contrast Rebecca's easy new belonging with Gabriel's deepening isolation, and carry the secret and Craig out of the chapter unresolved.",
+      "summary": "Driving home, Rebecca is glowing, already part of this new world; Gabriel, hollowed out and rattled, reaches toward telling her what just happened at the window and about the overlook, and can't.",
+      "stakes": "The honesty Gabriel has staked his marriage on, and whether the gap between the life Rebecca is happily building and the one he's secretly living can hold.",
+      "turn": "A near-confession collapses into a reassuring half-truth; Rebecca, delighted, says they should have Craig over sometime, and Gabriel agrees to a stranger he already dreads. Reaching-for-her flips to retreat, and the chapter hands the reader an unmet name."
+    }
+  ],
+  "hook": {
+    "opening_hook": "A man who hasn't slept in a month getting dressed to be charming for a room full of people who are better at life than he is, narrating the small performance of pretending he's fine while the reader knows what he's not telling his wife.",
+    "closing_hook": "Rebecca, happy, saying they really should have Craig over sometime, and Gabriel agreeing, so that the reader carries a warmly-sold, never-seen name and a fog that came back when there were no more pills to blame."
+  },
+  "characters_present": [
+    "Gabriel — to survive one social evening without letting the secret or the cracks show, and to feel like he belongs at his wife's table",
+    "Rebecca — to be happy in her new job and new town and to show off the husband she loves to her colleagues",
+    "Paul — to hold the table's center, be liked, and get through dinner before his pager or his private life catches up with him",
+    "Sarah — to drink, to be liked, and to unburden every piece of office knowledge she owns onto the nearest new ear",
+    "Jill — (fragmentary) to be present at the periphery of the table, barely registered"
+  ],
+  "world_rules_engaged": [
+    "Two-readings rule: the window fog/quiet must read equally as withdrawal-and-fatigue and as the town's presence following him indoors",
+    "Deniable footprints: the uncanny beat is gone the instant anyone else could look, corroborated by no one",
+    "Costs, not free scares: the beat costs Gabriel his medication alibi and another increment of self-trust and marital honesty",
+    "The town frames the creatures: the water outside the shore restaurant is the same face of Redding reaching that appeared at the overlook",
+    "POV locked to Gabriel, first person, past tense; nothing enters except through him",
+    "Do NOT name or confirm the water presence (Rusalka stays unnamed and deniable)",
+    "Do NOT reveal or hint Craig's true nature; keep him a warmly over-sold, unmet name only",
+    "Humor decay: comic-forward but a notch past Ch.1, jokes running slightly defensive as the secret and insomnia gnaw",
+    "The marriage carries the emotional load; Rebecca's trust is a cost being spent, not resolved"
+  ],
+  "setups_and_payoffs": [
+    {"type": "payoff", "id": "P0", "what": "Resolves-forward Ch.1's closing promise that the lie would grow easier and threaten everything he loves — this chapter dramatizes the lie becoming load-bearing in front of witnesses", "pays_off": "this episode"},
+    {"type": "payoff", "id": "P0b", "what": "Continues the overlook water/fog manifestation from Ch.1 by recurring in a mundane, sober context, tightening the ambiguity without resolving it", "pays_off": "this episode (partial); larger thread stays open"},
+    {"type": "setup", "id": "P1", "what": "Craig planted as an over-sold, unmet coworker Gabriel would 'love-love-love' and is now expected to have over sometime", "pays_off": "later"},
+    {"type": "setup", "id": "P2", "what": "Paul established as the state's top neurosurgeon and a serial cheater — a loaded potential resource/threat for a man fearing for his mind", "pays_off": "later"},
+    {"type": "setup", "id": "P3", "what": "Gabriel's insomnia and cold-turkey withdrawal deepened, and the medication alibi for the uncanny explicitly undermined by a sober recurrence", "pays_off": "later"},
+    {"type": "setup", "id": "P4", "what": "Rebecca's easy, growing belonging in the hospital world vs. Gabriel's isolation — the wedge the town can widen", "pays_off": "later"}
+  ],
+  "continuity_notes": [
+    "No prior plot spec existed; episode 1 was written directly as prose (manuscript/chapters/episode-01-ch-01.md). Continuity is drawn from that draft and world/.",
+    "No specific premise was given for Ch.2 beyond the author's brief; the dinner cast and Crabcake Factory are pulled directly from established characters.md so this is the intended next beat, not an invention.",
+    "Set roughly one month after the overlook night; Gabriel is off the sleeping pills (poured down the drain in Ch.1) and suffering insomnia from quitting cold turkey against medical advice.",
+    "The lie stands: Rebecca still believes Gabriel only walked the property that first night. Do not have him confess; the gap must survive the chapter.",
+    "Craig is unmet in the draft — Gabriel has NOT met him. Keep it that way this chapter (setup only); if he must be more than a name, keep him only charming with nothing overtly wrong. Preference here is to keep him a name.",
+    "Lela need not appear on-page at the dinner but her Ch.1 role as detector stays canon; if referenced, keep her ambiguous.",
+    "The uncanny beat must stay small and deniable — a fog/water/quiet motif, not a creature, not a voice made explicit enough to confirm. The weather-app-says-clear detail from Ch.1 can echo but shouldn't be over-repeated into a gimmick.",
+    "Facts to keep consistent: Rebecca runs the hospital surgery center; Paul left the Ch.1-canon dinner early via pager (preserve the pager exit); Sarah is the drunk office-gossip valve; Jill is the administrative assistant and remains a fragment."
+  ],
+  "warnings": [
+    "Temptation to escalate the window beat into a full manifestation — resist; the brief calls for ONE subtle, deniable beat and no set piece. Escalation here would break the 'escalation not repetition' pacing and burn ambiguity too early.",
+    "Temptation to over-foreshadow Craig (uncanny familiarity, dread, mirror imagery) — forbidden. His billing must read as ordinary workplace over-praise, nothing that lets the reader guess the doppelganger.",
+    "Do not let a neurosurgeon at the table tip into an on-the-nose diagnosis or lore-explanation of Gabriel's mind; keep Paul's clinical talk as banter that Gabriel privately weaponizes against himself.",
+    "Watch the humor calibration: a notch past Ch.1 into defensive-thinning, not a hard cliff. Keep him recognizably funny; the jokes should just land a beat late or hollow near the wrong moments.",
+    "Do not resolve the marriage strain or the secret for free; both must exit the chapter heavier.",
+    "Length target when written is 5,000–8,000 characters — the six scenes are deliberately compact so the prose agent can hit that range; the dinner should not sprawl."
+  ]
+}
