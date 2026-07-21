@@ -1,8 +1,14 @@
 # Style Guide — *The Strays*
 
 House style rails. Read alongside `Canon.md` (Canon wins on story; this wins on
-prose mechanics). These settings are the defaults every agent applies unless the
-author overrides them for a specific chapter.
+prose mechanics) and **`voice.md` (the author's actual prose voice, derived from
+the Chapter 1 sample — the texture these mechanics wrap around)**. These settings
+are the defaults every agent applies unless the author overrides them for a
+specific chapter.
+
+> Mechanics live here; **voice lives in `voice.md`** — treat them as a pair. The
+> single most important voice rule: full comic voice in the mundane, restrained
+> and earnest prose in the horror.
 
 ---
 

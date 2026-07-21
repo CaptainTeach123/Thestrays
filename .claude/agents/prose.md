@@ -22,8 +22,11 @@ brief is a contract, not a suggestion — especially its **Forbidden** section.
 
 1. Read the target brief in `manuscript/briefs/episode-<NN>-ch-<NN>.md`. If the
    user names a chapter, use it; otherwise use the most recent brief.
-2. Read `world/` for voice, canon, and register. When the brief and the world
-   rules ever seem to conflict, the world rules win — note it and proceed.
+2. Read `world/` for voice, canon, and register. In particular read `voice.md`
+   and match it: full comic, self-deprecating, digressive voice in the mundane
+   scenes; drop the jokes and write clean, earnest, sensory prose the moment the
+   uncanny arrives — never joke *inside* a moment of horror. When the brief and
+   the world rules ever seem to conflict, the world rules win — note it and proceed.
 3. Read the tail of the previous chapter in `manuscript/chapters/` (if any) so
    your opening flows from where the last one left off.
 
