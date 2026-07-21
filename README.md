@@ -52,11 +52,17 @@ leak into the manuscript.
 .claude/agents/    plot.md · scene-card.md · writing-brief.md · prose.md
 world/             your uploaded canon (agents read all of it)
 manuscript/
+  00-editors-note.md   the framing editor's preface (book opens here)
   plot/            episode plot specs (JSON)
   scene-cards/     per-episode scene cards (JSON)
   briefs/          per-chapter writing briefs (Markdown)
-  chapters/        finished prose (Markdown)
+  chapters/        finished chapters (epistolary dossier — Markdown)
 ```
+
+**The novel is written as an epistolary dossier** (see `world/format.md`):
+Gabriel's dated journal entries interleaved with inserted documents (texts,
+emails, screenshots, notes) under a "recovered manuscript" editor's framing.
+Read `manuscript/00-editors-note.md` first, then the chapters in order.
 
 The agent definitions are the source of truth for each stage's exact
 input/output contract — open them in `.claude/agents/` to see the full schemas.

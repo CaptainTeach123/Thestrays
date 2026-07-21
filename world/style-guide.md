@@ -66,11 +66,13 @@ specific chapter.
 
 ## Formatting conventions
 
-- Chapters are prose only (see the prose agent). An optional `# Title` line is
-  allowed at the top.
+- **The novel is an epistolary dossier** (see `format.md`): Gabriel's dated
+  journal entries interleaved with inserted documents (texts, emails, screenshots,
+  notes) and a framing editor's note. Chapters are entry-clusters, not plain prose.
+- An optional `# Title` line is allowed at the top of a chapter file.
 - Dialogue in standard double quotes. New speaker, new paragraph.
-- Gabriel's remembered/imagined material is woven into narration, not set in
-  special typography, unless the author establishes a convention later.
+- Gabriel's remembered/imagined material is woven into the journal narration, not
+  set in special typography.
 
 ---
 

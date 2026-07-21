@@ -33,9 +33,15 @@ brief is a contract, not a suggestion — especially its **Forbidden** section.
 ## What you produce
 
 Write the chapter to `manuscript/chapters/episode-<NN>-ch-<NN>.md` and print it.
-The file is **prose only** — no headers, notes, or meta commentary inside the
-manuscript file, except an optional `# Chapter Title` line at the top if the
-brief supplies one.
+
+**Format: epistolary dossier** (see `world/format.md`). The chapter is a cluster
+of dated journal entries in Gabriel's first-person voice, interleaved with short
+inserted documents (texts, emails, screenshots, notes) and the occasional dry
+editor's mark for gaps/damage. An optional `# Chapter Title` line may head the
+file. Keep documents short, real, and deniable — never the clean corroboration
+that would collapse the ambiguity. The journal prose still obeys voice, humor
+decay, the em-dash cap, and the 5,000–8,000-character target; em dashes in
+document labels/editor's marks don't count against that cap.
 
 After the prose, in your **chat reply only** (not in the manuscript file), append
 a short compliance report:
