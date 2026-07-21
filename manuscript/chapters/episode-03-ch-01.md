@@ -50,6 +50,8 @@ I told myself I wanted proof. I wanted to hold the thing up to the light and see
 [HOSPITAL STAFF DIRECTORY — screenshot, saved 11:47pm]
 CRAIG ——, Dept. of Surgery. The photo is a round, pleasant face I have never seen in my life. Brown eyes. A good ten years older than me. He looks nothing like me. Nothing. Not a little, not a cousin's worth, not the generous resemblance you'd grant a stranger in bad light.
 
+*[The photograph is here, clipped to the page. It is of a man. It is not the man he describes, and it is not the writer either. I have sat with the page and the picture longer than I would care to admit, and can tell you only that both are real objects and that they do not agree. — Ed.]*
+
 I sat on the edge of the bathtub with the screen going bright and dim in my hand and I could not make the photograph and the evening fit inside the same head. Either the thing that ate at my table tonight wore a face no camera can hold, or I spent an entire dinner watching my own face bloom across a man who does not have it, hearing my own voice come out of a mouth that isn't mine.
 
 I have been sitting here a long while trying to decide which of those I could live with. I am still trying.
@@ -62,3 +64,5 @@ I lay down beside her and tried to call up Craig's face, to hold it still and st
 I could not assemble a single sentence, not one, that would explain to her that the good one who came to dinner had, for one whole evening, been me.
 
 Outside, past the trees, the sea went on doing whatever the sea does at night. I chose not to listen to it. I am getting good at choosing not to listen.
+
+*[From about here the writing begins to change. Nothing a stranger would notice yet: a word crossed out and set down again the same, a line that leans where the early lines stood straight. I mark it only because I told the reader I would. — Ed.]*

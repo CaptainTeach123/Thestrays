@@ -40,6 +40,8 @@ And then, leaning in like she was passing me something valuable: "You have got t
 [NOTE — a cocktail napkin, kept. On it, in Sarah's hand:]
 CRAIG — the good one!! you'll LOVE him
 
+*[The earliest of the papers to carry the name. He kept the napkin; he kept very little else from that month. I have let the name arrive here as it arrived for him. It will not be the last time it does. — Ed.]*
+
 "One of the good ones," she said. "You'll love him. Love-love-love him. You two." She wagged a finger between me and the empty chair. "You two are going to get along."
 
 I said something agreeable. But the way she pitched it stuck to me oddly, that you two, like she was introducing me to someone I already knew, and I could not tell you why a name I'd never heard, hung on a face I'd never seen, should leave me feeling I had forgotten something.

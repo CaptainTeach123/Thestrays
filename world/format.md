@@ -22,6 +22,42 @@ engine.
 - The editor may interject sparingly in brackets between entries to note missing,
   damaged, struck-out, or illegible material. Keep it rare and dry; the editor
   never explains the story, only the state of the paper.
+
+### The editor as a character
+
+The editor is a real (if minor) presence in the book, not just a formatting
+device. Treat him as a person with the following shape:
+
+- **Who he is:** an unnamed antiquarian/archivist by trade (which suits the
+  leather-bound object the book is). The journal and its loose papers came into
+  his keeping; he has arranged and lightly annotated them. He signs "— Ed." and is
+  never named.
+- **Voice:** spare, formal, careful, a little old-fashioned. Understatement to the
+  point of dryness. He states what the paper is and what he did or didn't verify.
+  He does not emote; his unease shows only in what he chooses to mention and in the
+  things he declines to say.
+- **What he does:** notes the physical state of the manuscript; occasionally
+  cross-references a claim against ordinary public record and reports the result
+  flatly; arranges documents so the reader meets facts as the writer did.
+- **His arc (subtext only):** across the book the manuscript works on him too. His
+  early notes are purely archival; later ones betray, without ever admitting it,
+  that he has stopped being able to hold the pages at arm's length. Keep this
+  strictly between the lines. He never says "I am frightened."
+
+**Hard rules for editor interjections:**
+
+- **Never resolve the two-readings engine.** The editor may deepen the ambiguity
+  but must never confirm the supernatural OR confirm Gabriel is ill. A cross-
+  reference should cut both ways (a record that's merely absent, a photo that's
+  merely "of someone"), never settle it.
+- **Never explain the story or the lore.** No theories, no naming the Rusalka or
+  the double, no interpreting Gabriel. He reports; he does not analyze.
+- **Don't invent major new plot.** He works with the manuscript and mundane
+  record. Large canonical facts (e.g. whether Craig officially exists) are the
+  author's to decide, not the editor's to assert.
+- **Stay rare.** At most one to three short interjections per chapter, plus the
+  gap/damage marks. The journal is the book; the editor is a thin, cold frame
+  around it.
 - **In-world reason Gabriel keeps a journal:** he is a writer, off his pills and
   sleepless, using the page as the one confidant he can't disappoint or frighten.
   He says as much early. It doubles as his coping mechanism and our unreliable lens.

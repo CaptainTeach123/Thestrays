@@ -50,6 +50,8 @@ When I stood, there was no light. No fog. Ordinary dark, ordinary sea. I checked
 [WEATHER — screenshot saved 2:09am]
 Clear. 0% precipitation. Wind calm. Nowhere, in any hour, does it mention fog.
 
+*[This screenshot is among the loose papers, and shows what he says it shows. The public record for that night on this coast agrees with it: clear. I include both without further comment. — Ed.]*
+
 I walked myself home and poured the pills down the drain. It is so easy to blame the pills. Easier than the alternative, which I am not ready to hold: that maybe the pills were never the problem, and something else is.
 
 ---
@@ -71,3 +73,5 @@ good weird. unpacking weird.
 It is the easiest lie I have ever told, and the one I would give anything to unsay. Because when I went to put my shoes away this morning they were soaked through, and the cuffs of my jeans with them, damp to the shin. The ground was dry. The app still swears the night was clear. The only thing I walked through that could have left me like that was the fog. The fog I have spent all morning deciding I imagined.
 
 I am telling this journal a great many things I cannot tell her. I am already learning how much easier the lie is than the truth, and that the distance between the two is going to threaten everything I love.
+
+*[These early pages are the steadiest in the book. The hand is a writer's hand, unhurried, sure of itself. I note this now because it does not last, and I would have the reader remember what it looked like when it was well. — Ed.]*
