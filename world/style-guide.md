@@ -58,6 +58,9 @@ specific chapter.
 - Dialogue: naturalistic, sparing, subtext-carrying. People rarely say the true
   thing directly — least of all in Redding.
 - Paragraphs: white space is a tool. Isolate the wrong beat on its own line.
+- **Em dashes: use sparingly — a hard cap of ~1–2 per chapter.** Default to commas,
+  parentheses, colons, or a new sentence for asides. Overusing the em dash is a
+  banned tic (see the punctuation rule in `voice.md`).
 
 ---
 

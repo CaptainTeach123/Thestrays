@@ -37,10 +37,11 @@ it's all dread, it isn't either.
    > early supporters wrong."
    > "(if something still qualifies as a novel if no one reads it)"
 
-3. **Parenthetical & em-dash asides.** He interrupts himself to editorialize.
-   > "a public—sometimes too public—admission"
-   > "a candle shop that seemed to specialize in weak—uh, subtle—smells"
-   These self-corrections ("weak—uh, subtle—") are a signature move.
+3. **Self-interrupting asides.** He breaks his own sentences to editorialize and
+   self-correct (the "weak, uh, subtle" move is a signature). **But punctuate
+   these with variety, not a wall of em dashes** — see the em-dash rule below.
+   Reach first for commas, parentheses, colons, or a fresh sentence; save the em
+   dash for the rare beat that truly needs the hardest interruptive stop.
 
 4. **Comic hyperbole & mock-grandiosity.** Ordinary things get inflated for laughs.
    > "the world's fastest shower. Rebecca might have a different opinion of the
@@ -154,6 +155,20 @@ Guardrails so the decay reads as intentional, not as the voice breaking:
 
 ---
 
+## Punctuation rule — go easy on em dashes
+
+**Do not overuse the em dash (—).** It's a real tool in this voice, but a dash on
+every other line reads as a tic and flattens the rhythm. Hard guidance:
+
+- **Budget: at most ~1–2 em dashes per chapter**, reserved for the single
+  strongest interruption or reveal. Prefer zero if none earns it.
+- For asides and self-corrections, default to **commas, parentheses, colons, or
+  just starting a new sentence.** Vary the punctuation deliberately.
+- Never stack two dashed asides in one sentence, and avoid the paired
+  "word—aside—word" construction more than once in a great while.
+- The em dash should feel like a rare hard stop, not the narrator's default
+  breath. When in doubt, recast the sentence without it.
+
 ## Do / Don't (for the prose agent)
 
 **Do**
@@ -168,6 +183,7 @@ Guardrails so the decay reads as intentional, not as the voice breaking:
 - Don't joke during the horror itself.
 - Don't run comedy wall-to-wall — the sadness and dread are the point.
 - Don't over-alliterate or pun in every line; one flourish per beat.
+- Don't lean on em dashes; keep them to ~1–2 a chapter (see the punctuation rule).
 - Don't go purple or melodramatic; understatement is the house tone.
 - Don't use dated slang that will age badly; keep references evergreen-modern.
 - Don't let jokes explain the supernatural or puncture its ambiguity.
@@ -186,3 +202,4 @@ A chapter sounds like *The Strays* when it has:
 - [ ] A clear tonal drop into clean, earnest prose when the uncanny arrives.
 - [ ] Melancholy visible under the comedy.
 - [ ] Restraint: no joke inside the horror, no purple prose, ambiguity intact.
+- [ ] Em dashes kept to ~1–2 for the whole chapter (varied punctuation elsewhere).

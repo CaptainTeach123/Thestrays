@@ -57,6 +57,7 @@ print it. Use exactly these sections:
 - Description budget: <n> sentences max per new location before movement resumes
 - Sentence rhythm: vary length; no more than <n> long (>25-word) sentences in a row
 - Adjective/adverb restraint: <guidance>; no filter words ("she saw/felt/heard") unless earned
+- Em dashes: hard cap ~1–2 for the whole chapter (per voice.md); vary punctuation otherwise
 - Interiority: <how much internal monologue is allowed>
 
 ## Required elements (checklist the prose MUST satisfy)
